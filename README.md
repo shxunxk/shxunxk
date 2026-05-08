@@ -1,34 +1,83 @@
-# Hi there 👋 I'm Shaunak
+# Hi there 👋 I'm Shaunak Nagvenkar
 
-✨ Welcome to my GitHub profile! ✨
+🚀 AI/ML Engineer | Generative AI | Agentic AI | Full-Stack Development | Data Engineering
 
-## 🔭 I’m currently working on:
-- **Road Crash Prediction in India**: Developing a predictive model to inform government policies for road safety.
-- **Comprehensive Health Care Application**: Creating a health tracking app for elderly users leveraging Machine Learning and IoT.
+Passionate about building intelligent systems that combine Machine Learning, Generative AI, scalable backend architectures, and real-world problem solving.
 
-## 🌱 I’m currently learning:
-- Advanced concepts in Machine Learning, particularly focusing on NLP and computer vision.
-- Optimization techniques for CNN models.
-- Taking steps into Generative AI.
+---
 
-## 👯 I’m looking to collaborate on:
-- Projects involving data analytics, machine learning, and software development.
-- Research papers related to face recognition, liveness detection, and road safety.
+## 🔭 Currently Working On
 
-## 🤔 I’m looking for help with:
-- Advanced RNN techniques for NLP tasks.
-- Integrating IoT solutions in healthcare applications.
+### 🚗 Road Crash Prediction in India
 
-## 💬 Ask me about:
-- Machine Learning algorithms and their applications.
-- Frontend development with React and SCSS.
+Building predictive machine learning models to analyze road crash patterns and support data-driven road safety and policy decisions.
 
-## 📫 How to reach me:
-- Email: [ssnagvenkar@example.com](mailto:ssnagvenkar@example.com)
-- LinkedIn: [Shaunak Nagvenkar](https://www.linkedin.com/in/shaunak-nagvenkar/)
+### 🏥 AI-Powered Healthcare Application
 
-## 😄 Pronouns:
-- He/Him
+Developing a smart healthcare platform for elderly users integrating Machine Learning, IoT, health monitoring, anomaly detection, and reminder systems.
 
-## ⚡ Fun fact:
-- I love solving complex problems and exploring new technologies in my spare time!
+### 🤖 Agentic AI & RAG Systems
+
+Exploring autonomous AI workflows using LangChain, LangGraph, vector databases, and LLMs to build intelligent reasoning systems.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced NLP & Large Language Models (LLMs)
+* Agentic AI Architectures & Multi-Agent Systems
+* MLOps & LLMOps
+* Distributed Data Processing with Apache Spark
+* Recommendation Systems & Personalization
+* Scalable AI System Design
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+Python • Scala • JavaScript
+
+### AI / ML
+
+TensorFlow • Scikit-learn • PyTorch • LangChain • LangGraph • CrewAI • Transformers • MLflow
+
+### Generative AI
+
+OpenAI • DeepSeek • LLaMA • Ollama • RAG Pipelines • Vector Databases
+
+### Backend & Cloud
+
+FastAPI • Node.js • Docker • AWS (EC2, S3, Lambda)
+
+### Databases & Data Engineering
+
+PostgreSQL • MongoDB • Pinecone • ChromaDB • Apache Spark • Apache Airflow
+
+### Tools
+
+GitHub Actions • Postman • Git • VS Code
+
+---
+
+## 👯 Open To Collaborate On
+
+* AI/ML & Generative AI Projects
+* Agentic AI Systems
+* NLP & Computer Vision Research
+* Data Engineering & Scalable Backend Systems
+* Open Source AI Tools
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [Shaunak Nagvenkar](https://www.linkedin.com/in/shaunak-nagvenkar/)
+* GitHub: [shxunxk](https://github.com/shxunxk)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building AI systems that go beyond models — focusing on the engineering, infrastructure, and scalability needed to make them production-ready.
