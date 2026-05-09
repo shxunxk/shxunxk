@@ -8,10 +8,6 @@ Passionate about building intelligent systems that combine Machine Learning, Gen
 
 ## 🔭 Currently Working On
 
-### 🚗 Road Crash Prediction in India
-
-Building predictive machine learning models to analyze road crash patterns and support data-driven road safety and policy decisions.
-
 ### 🏥 AI-Powered Healthcare Application
 
 Developing a smart healthcare platform for elderly users integrating Machine Learning, IoT, health monitoring, anomaly detection, and reminder systems.
@@ -37,11 +33,11 @@ Exploring autonomous AI workflows using LangChain, LangGraph, vector databases, 
 
 ### Languages
 
-Python • Scala • JavaScript
+Python • Scala • JavaScript • C++(Basics)
 
 ### AI / ML
 
-TensorFlow • Scikit-learn • PyTorch • LangChain • LangGraph • CrewAI • Transformers • MLflow
+TensorFlow • Scikit-learn • PyTorch • LangChain • LangGraph • CrewAI • Transformers • MLflow(Basics)
 
 ### Generative AI
 
@@ -53,7 +49,7 @@ FastAPI • Node.js • Docker • AWS (EC2, S3, Lambda)
 
 ### Databases & Data Engineering
 
-PostgreSQL • MongoDB • Pinecone • ChromaDB • Apache Spark • Apache Airflow
+PostgreSQL • MongoDB • Pinecone • ChromaDB • FAISS • Apache Spark • Apache Airflow
 
 ### Tools
 
