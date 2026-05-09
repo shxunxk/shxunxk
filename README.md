@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shaunak Nagvenkar
 
-🚀 AI/ML Engineer | Generative AI | Agentic AI | Full-Stack Development | Data Engineering
+🚀 AI/ML enthusiast | Generative AI | Agentic AI | Full-Stack Development | Data Engineering as Tata Consultancy Services
 
 Passionate about building intelligent systems that combine Machine Learning, Generative AI, scalable backend architectures, and real-world problem solving.
 
