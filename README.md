@@ -2,70 +2,97 @@
 
 ### AI/ML Engineer | Generative AI | Agentic AI | RAG | Data Engineering
 
-I'm an AI/ML enthusiast and Systems Engineer at **Tata Consultancy Services**, focused on building intelligent, scalable systems that combine **Generative AI, Agentic AI, Retrieval-Augmented Generation, Machine Learning, and Data Engineering**.
+I'm an **AI/ML Engineer and Systems Engineer at Tata Consultancy Services**, focused on building intelligent, scalable systems at the intersection of **Generative AI, Agentic AI, Retrieval-Augmented Generation, Machine Learning, and Data Engineering**.
 
-I enjoy working at the intersection of **AI and software engineering** — from designing RAG pipelines and multi-agent workflows to building data pipelines and production-oriented AI systems.
+I enjoy turning AI concepts into **working, production-oriented systems** — from RAG pipelines and agentic workflows to scalable data pipelines, evaluation frameworks, and AI infrastructure.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Building
 
 ### 🤖 Agentic AI & RAG
 
-Building agentic systems using **LangGraph, LangChain, LLMs, vector databases, and tool-based workflows**.
+Building and experimenting with **LLM-powered agentic systems** using:
 
-Currently exploring architectures for:
-
-* Multi-agent systems
-* Agent routing and orchestration
+* LangGraph & LangChain
+* RAG pipelines
+* Vector databases & semantic search
 * Retrieval and reranking
-* Hybrid RAG
-* Tool calling and MCP
-* LLM evaluation and guardrails
-* Production-oriented AI workflows
+* Multi-agent orchestration
+* Tool calling
+* Model Context Protocol (MCP)
+* LLM evaluation & guardrails
+* LLMOps and production AI workflows
 
-### ⚡ AI-Powered Fault Detection
+I'm particularly interested in how agents can **reason, retrieve information, use tools, validate outputs, and execute multi-step workflows** reliably.
 
-Working on an **Agentic AI system for fault detection in electrical appliances**.
+---
+
+### ⚡ Agentic AI for Fault Detection
+
+Developing an **Agentic AI system for fault detection in IoT/electrical appliances**.
 
 The system combines:
 
-**Retrieval → Anomaly Detection → Validation → Explanation**
+**Detection → Diagnosis → Retrieval → Validation → Explanation → Recommendation**
 
-with RAG over appliance documentation to provide not only fault identification but also **evidence-backed explanations and recommended next steps**.
+with RAG over technical documentation to provide **evidence-backed fault analysis and actionable next steps**.
+
+The broader goal is to move beyond simple prediction toward AI systems that can **detect, reason, validate, and assist with resolution**.
+
+---
 
 ### 📊 Data Engineering & Scalable AI
 
-Through my work at **Tata Consultancy Services**, I work with large-scale data pipelines and technologies such as **Apache Spark and Scala**, with a focus on data validation, pipeline maintenance, and error mitigation.
+At **Tata Consultancy Services**, I work with large-scale data processing and validation workflows using technologies such as:
+
+* Apache Spark
+* Scala
+* Data validation
+* Data quality
+* Pipeline maintenance
+* Error detection & mitigation
+* Automation
+
+I'm particularly interested in connecting **reliable data infrastructure with modern AI systems**.
 
 ---
 
 ## 💼 Professional Experience
 
-**Systems Engineer — Tata Consultancy Services**
+### Systems Engineer — Tata Consultancy Services
 
-Working as a Big Data Engineer on a Fortune 100 technology client, focusing on:
+Working as a **Big Data Engineer** on a Fortune 100 technology client.
 
-* Large-scale data pipeline maintenance
-* Apache Spark and Scala
-* Data validation and quality
+My work involves:
+
+* Large-scale data pipeline development and maintenance
+* Apache Spark & Scala
+* Data validation and quality checks
 * Error mitigation and troubleshooting
-* Automation of data validation workflows
+* Automation of validation workflows
+* Building reusable data-processing components
 
 ---
 
-## 🧠 Areas I'm Exploring
+## 🧠 Current Areas of Exploration
 
-* Generative AI & LLMs
-* Agentic AI & Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* LLM Evaluation & LLMOps
-* Model Context Protocol (MCP)
-* NLP & Transformers
-* Machine Learning & Deep Learning
-* Data Engineering & Distributed Systems
-* MLOps
-* Scalable AI System Design
+```text
+Generative AI
+Agentic AI
+Multi-Agent Systems
+Retrieval-Augmented Generation
+LLM Evaluation
+LLMOps
+Model Context Protocol (MCP)
+NLP & Transformers
+Machine Learning
+Deep Learning
+MLOps
+Data Engineering
+Distributed Systems
+AI System Design
+```
 
 ---
 
@@ -83,7 +110,7 @@ Working as a Big Data Engineer on a Fortune 100 technology client, focusing on:
 
 `LangChain` `LangGraph` `Ollama` `LLMs` `RAG` `Agentic AI` `Tool Calling` `MCP`
 
-### Vector Databases & Retrieval
+### Retrieval & Vector Databases
 
 `Pinecone` `ChromaDB` `FAISS` `BM25` `Reranking` `Hybrid Search`
 
@@ -103,11 +130,18 @@ Working as a Big Data Engineer on a Fortune 100 technology client, focusing on:
 
 ## 🔬 Research & Innovation
 
-My interests extend beyond implementation into **AI system design and applied research**.
+I'm interested in **applied AI research and AI system engineering**, particularly around intelligent retrieval, agentic workflows, explainability, and scalable AI systems.
 
 ### 📄 Research
 
-Working on research involving **Agentic AI, RAG-based systems, fault detection, and explainable AI**.
+Research interests include:
+
+* Agentic AI
+* RAG-based systems
+* Fault detection
+* Explainable AI
+* Generative AI
+* AI system architecture
 
 ### 💡 Patent
 
@@ -117,13 +151,53 @@ Patent application in progress.
 
 ---
 
-## 📌 Featured Areas
+## 🚀 Featured Projects
 
-🔹 **Generative AI** — Building practical LLM-powered applications
-🔹 **Agentic AI** — Designing autonomous workflows and multi-agent architectures
-🔹 **RAG** — Retrieval, vector search, reranking, and grounded generation
-🔹 **Data Engineering** — Distributed processing and reliable data pipelines
-🔹 **AI Engineering** — Turning AI models into scalable, production-oriented systems
+### 🤖 AI-Powered Internal Tool Assistant
+
+An enterprise-style AI assistant combining:
+
+`RAG` → `Retrieval` → `Reranking` → `Tool Selection` → `LLM Response`
+
+Designed to work across internal documentation, code, and structured records.
+
+---
+
+### ⚡ IoT Agentic RAG Fault Detection
+
+An agentic workflow for intelligent fault diagnosis:
+
+`Detect → Diagnose → Validate → Recommend → Resolve → Learn`
+
+Combines machine learning, RAG, technical documentation, and agent orchestration.
+
+---
+
+### 🚕 Taxi Demand Prediction Pipeline
+
+An end-to-end ML/data engineering pipeline involving:
+
+`Data Ingestion → Feature Engineering → Model Training → Experiment Tracking → Orchestration → CI/CD`
+
+Built to explore production-oriented **MLOps and data pipeline architecture**.
+
+---
+
+## 🎯 What I'm Interested In
+
+I'm especially interested in opportunities involving:
+
+* AI/ML Engineering
+* Generative AI
+* Agentic AI
+* Applied AI
+* LLM Engineering
+* RAG & Search
+* AI Infrastructure
+* MLOps / LLMOps
+* Machine Learning
+* Data Engineering
+* AI Research
 
 ---
 
@@ -131,9 +205,9 @@ Patent application in progress.
 
 * Generative AI & LLM applications
 * Agentic AI & Multi-Agent Systems
-* RAG systems
-* NLP & Computer Vision
+* RAG and search systems
 * AI research projects
+* NLP & Computer Vision
 * Data Engineering
 * MLOps / LLMOps
 * Open-source AI projects
@@ -150,6 +224,10 @@ Patent application in progress.
 
 ## ⚡ Fun Fact
 
-I don't just enjoy building AI models — I enjoy figuring out **how to make AI systems actually work in the real world**.
+> I don't just enjoy building AI models — I enjoy figuring out **how to make AI systems actually work in the real world.**
 
-From retrieval and orchestration to data pipelines, evaluation, infrastructure, and scalability, I'm interested in the engineering behind production-ready AI.
+From retrieval and orchestration to evaluation, data pipelines, infrastructure, and scalability, I'm interested in the engineering that turns **AI prototypes into reliable systems**.
+
+---
+
+### ⭐ Building • Learning • Researching • Experimenting with AI
